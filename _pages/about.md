@@ -206,7 +206,7 @@ Yunke Wang, Xiyu Wang, **Anh-Dung Dinh**, Bo Du, Chang Xu
 
 # 📖 Teaching
 - *2024-2025*, Teaching Assistant/Tutor for OCMP5329 Deep Learning, The University of Sydney
-- *2024-2025*, Guest Lecturer for Summer course 
+- *2024-2025*, Guest Lecturer for Summer course on Generative AI, The University of Sydney
 - *2023-2025*, Invited lecturer/Tutor for COMP5329  Deep Learning, The University of Sydney
 
 
