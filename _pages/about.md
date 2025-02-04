@@ -16,10 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+## About Me
 
-I am a PhD student in A/Prof [Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
-I obtained Bachelor and Master degree from Hanoi Univerisity of Science and Technology supervised by A/Prof Huynh Thi Thanh Binh.
-My research delves deeply into computer vision and fundamental concepts in generative artificial intelligence.
+I am a **third-year PhD student** at the **School of Computer Science, The University of Sydney**, under the supervision of [Assoc. Prof. Chang Xu](http://changxu.xyz/) and [Assist. Prof. Daochang Liu](https://daochang.site/).  
+
+Previously, I worked as a **Research Assistant** at the **Singapore University of Technology and Design**, where I was supervised by [Assoc. Prof. Ngai-Man Cheung](https://sites.google.com/site/mancheung0407/). I earned both my **Bachelor's and Master's degrees** from the **Hanoi University of Science and Technology**, guided by [A/Prof. Huynh Thi Thanh Binh](https://soict.hust.edu.vn/en/assoc-prof-huynh-thi-thanh-binh.html).  
+
+My research focuses on **computer vision** and **fundamental concepts in generative artificial intelligence**, exploring cutting-edge methodologies to advance the field.  
+
+
+<!-- I am a third-year PhD student at the School of Computer Science, The University of Sydney. I am lucky to be supervised by Assoc.Prof Chang Xu and Assist.Prof Daochang Liu.
+
+Before that I was Research Assistant at Singapore University of Technology and Design under supervision of Asso.Prof Ngai-Man Cheung. I obtained Bachelor and Master degree from Hanoi Univerisity of Science and Technology supervised by A/Prof Huynh Thi Thanh Binh. My research delves deeply into computer vision and fundamental concepts in generative artificial intelligence. -->
 
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
  -->
@@ -63,7 +71,7 @@ My research delves deeply into computer vision and fundamental concepts in gener
 
 <br>
 
-# 📝 Publications - Generative Artificial Intelligence 
+# 📝 Publications - Selected Publications
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.png' alt="sym" width="100%"></div></div>
@@ -136,6 +144,52 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DiffAct++: Diffusion Action Segmentation](https://www.computer.org/csdl/journal/tp/5555/01/10772006/22gA5Z07dyE) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>
+
+Daochang Liu, Qiyue Li, **Anh-Dung Dinh**, Tingting Jiang, Mubarak Shah, Chang Xu
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024*
+
+[[Code]](https://github.com/Finspire13/DiffAct)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [Diffusion Action Segmentation](https://arxiv.org/abs/2303.17959) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
+
+Daochang Liu, Qiyue Li, **Anh-Dung Dinh**, Tingting Jiang, Mubarak Shah, Chang Xu
+
+*International Conference on Computer Vision (ICCV), 2023*
+
+[[Project]](https://finspire13.github.io/DiffAct-Project-Page/) [[Code]](https://github.com/Finspire13/DiffAct) [[Video]](https://youtu.be/AZ0vjscL1nc)
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD2023</div><img src='images/KDD2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [Learning to Schedule in Diffusion Probabilistic Models](https://dl.acm.org/doi/abs/10.1145/3580305.3599412) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
+
+Yunke Wang, Xiyu Wang, **Anh-Dung Dinh**, Bo Du, Chang Xu
+
+*29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2023*
+
+<!-- [[Project]](https://finspire13.github.io/DiffAct-Project-Page/) [[Code]](https://github.com/Finspire13/DiffAct) [[Video]](https://youtu.be/AZ0vjscL1nc) -->
+
+
+</div>
+</div>
+
+
+
 
 
 <br>
@@ -162,7 +216,7 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 - *2022.08 - 2025.12*, Ph.D scholarships, Faculty of Engineering, The University of Sydney
 - *2023.12*, Travel Grant, Conference on Neural Information Processing Systems
 - *2019.08*, Master Scholarship, 100% tuition fee for excellent Engineer Students (top 10%) 
-- *2018.05*, Research Scholarship, Student Research Conference, HUST (top 3)
+- *2017.05*, Research Scholarship, Student Research Conference, HUST (Second Runner)
 
 <!-- <span class='anchor' id='talks'></span>
 
@@ -193,7 +247,6 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
 - *2024*, Publication Chair of The 13th International Symposium on Information And Communication Technology (SOICT 2024)
 - Reviewer of TPAMI, TMM, ICLR (2023, 2024, 2025), ICML (2024, 2025), CVPR (2023, 2024, 2025), NeurIPS (2023, 2024), ICCV (2023), ECCV (2024), AAAI (2023, 2024, 2025)
-
 <!-- # - -->
 
 **Contact:** anh-dung.dinh@sydney.edu.au, anhdungdinh.vn21@gmail.com
@@ -202,4 +255,8 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uYMY2rGQRlj9jS9tWhBb3Q_cOVSqZYGQhXN06Yai_4U&cl=ffffff&w=a"></script> -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uYMY2rGQRlj9jS9tWhBb3Q_cOVSqZYGQhXN06Yai_4U&cl=ffffff&w=300"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uYMY2rGQRlj9jS9tWhBb3Q_cOVSqZYGQhXN06Yai_4U&cl=ffffff&w=300"></script>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n6_VS48zC5grhWgVMqU4b1Uwrz-F7aRFEP6vHKiL9PM&cl=ffffff&w=a"></script> -->
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n6_VS48zC5grhWgVMqU4b1Uwrz-F7aRFEP6vHKiL9PM&cl=ffffff&w=300"></script>
