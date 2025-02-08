@@ -259,4 +259,4 @@ Yunke Wang, Xiyu Wang, **Anh-Dung Dinh**, Bo Du, Chang Xu
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n6_VS48zC5grhWgVMqU4b1Uwrz-F7aRFEP6vHKiL9PM&cl=ffffff&w=a"></script> -->
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n6_VS48zC5grhWgVMqU4b1Uwrz-F7aRFEP6vHKiL9PM&cl=ffffff&w=300"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n6_VS48zC5grhWgVMqU4b1Uwrz-F7aRFEP6vHKiL9PM&cl=ffffff&w=0"></script>
