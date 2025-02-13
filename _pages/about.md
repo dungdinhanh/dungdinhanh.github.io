@@ -99,7 +99,7 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Representative Guidance: Diffusion Model Sampling with Consistency](https://openreview.net/forum?id=gWgaypDBs8) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
+[Representative Guidance: Diffusion Model Sampling with Consistency](https://openreview.net/forum?id=gWgaypDBs8) <span style="color:red"> (**spotlight**) </span> <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
 
 **Anh-Dung Dinh**, Daochang Liu, Chang Xu
 
@@ -251,12 +251,6 @@ Yunke Wang, Xiyu Wang, **Anh-Dung Dinh**, Bo Du, Chang Xu
 
 **Contact:** anh-dung.dinh@sydney.edu.au, anhdungdinh.vn21@gmail.com
 
-**Last Update:** May 03, 2024
-
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uYMY2rGQRlj9jS9tWhBb3Q_cOVSqZYGQhXN06Yai_4U&cl=ffffff&w=a"></script> -->
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uYMY2rGQRlj9jS9tWhBb3Q_cOVSqZYGQhXN06Yai_4U&cl=ffffff&w=300"></script>
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n6_VS48zC5grhWgVMqU4b1Uwrz-F7aRFEP6vHKiL9PM&cl=ffffff&w=a"></script> -->
+**Last Update:** May 03, 2024 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=n6_VS48zC5grhWgVMqU4b1Uwrz-F7aRFEP6vHKiL9PM&cl=ffffff&w=0&t=n&d=n6_VS48zC5grhWgVMqU4b1Uwrz-F7aRFEP6vHKiL9PM"></script>
