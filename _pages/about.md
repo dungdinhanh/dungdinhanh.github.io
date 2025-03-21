@@ -55,6 +55,7 @@ Before that I was Research Assistant at Singapore University of Technology and D
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2025.04*: I will join Amazon Australia as Applied Scientist Intern
 - *2025.01*: One paper accepted to ICLR 2025
 - *2024.11*: One paper accepted to TPAMI 
 - *2024.5* : I will join Adobe Inc. as Research Scientist Intern
