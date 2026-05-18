@@ -55,6 +55,7 @@ Before that I was Research Assistant at Singapore University of Technology and D
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.03*: I will join UNSW as Postdoctoral Researcher
 - *2025.11*: I will join Google as Research Scientist Intern
 - *2025.04*: I will join Amazon Australia as Applied Scientist Intern
 - *2025.01*: One paper accepted to ICLR 2025
