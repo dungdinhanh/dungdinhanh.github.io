@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 ## About Me
 
-I am a **third-year PhD student** at the **School of Computer Science, The University of Sydney**, under the supervision of [Assoc. Prof. Chang Xu](http://changxu.xyz/) and [Assist. Prof. Daochang Liu](https://daochang.site/).  
+I am a Postdoctoral Researcher at the University of New South Wales, supervised by [Prof. Flora Salim](https://www.unsw.edu.au/staff/flora-salim). We are pushing the frontiers of Embodied AI, tackling open problems in multimodal reasoning, grounded decision-making, and efficient inference for agents that perceive, reason, and act in the physical world.
 
-Previously, I worked as a **Research Assistant** at the **Singapore University of Technology and Design**, where I was supervised by [Assoc. Prof. Ngai-Man Cheung](https://sites.google.com/site/mancheung0407/). I earned both my **Bachelor's and Master's degrees** from the **Hanoi University of Science and Technology**, guided by [A/Prof. Huynh Thi Thanh Binh](https://soict.hust.edu.vn/en/assoc-prof-huynh-thi-thanh-binh.html).  
+I was fortunately under the supervision of [Assoc. Prof. Chang Xu](http://changxu.xyz/) and [Assist. Prof. Daochang Liu](https://daochang.site/).  Previously, I worked as a **Research Assistant** at the **Singapore University of Technology and Design**, where I was supervised by [Assoc. Prof. Ngai-Man Cheung](https://sites.google.com/site/mancheung0407/). I earned both my **Bachelor's and Master's degrees** from the **Hanoi University of Science and Technology**, guided by [A/Prof. Huynh Thi Thanh Binh](https://soict.hust.edu.vn/en/assoc-prof-huynh-thi-thanh-binh.html).  
 
-My research focuses on **computer vision** and **fundamental concepts in generative artificial intelligence**, exploring cutting-edge methodologies to advance the field.  
+My research focuses on **computer vision**, **language models** and **Embodied AI**. 
 
 
 <!-- I am a third-year PhD student at the School of Computer Science, The University of Sydney. I am lucky to be supervised by Assoc.Prof Chang Xu and Assist.Prof Daochang Liu.
