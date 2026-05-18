@@ -20,7 +20,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher at the University of New South Wales, supervised by [Prof. Flora Salim](https://www.unsw.edu.au/staff/flora-salim). We are pushing the frontiers of Embodied AI, tackling open problems in multimodal reasoning, grounded decision-making, and efficient inference for agents that perceive, reason, and act in the physical world.
 
-I was fortunately under the supervision of [Assoc. Prof. Chang Xu](http://changxu.xyz/) and [Assist. Prof. Daochang Liu](https://daochang.site/).  Previously, I worked as a **Research Assistant** at the **Singapore University of Technology and Design**, where I was supervised by [Assoc. Prof. Ngai-Man Cheung](https://sites.google.com/site/mancheung0407/). I earned both my **Bachelor's and Master's degrees** from the **Hanoi University of Science and Technology**, guided by [A/Prof. Huynh Thi Thanh Binh](https://soict.hust.edu.vn/en/assoc-prof-huynh-thi-thanh-binh.html).  
+I earned my Ph.D at The University of Sydney, where I was fortunately under the supervision of [Assoc. Prof. Chang Xu](http://changxu.xyz/) and [Assist. Prof. Daochang Liu](https://daochang.site/).  Previously, I worked as a **Research Assistant** at the **Singapore University of Technology and Design**, where I was supervised by [Assoc. Prof. Ngai-Man Cheung](https://sites.google.com/site/mancheung0407/). I earned both my **Bachelor's and Master's degrees** from the **Hanoi University of Science and Technology**, guided by [A/Prof. Huynh Thi Thanh Binh](https://soict.hust.edu.vn/en/assoc-prof-huynh-thi-thanh-binh.html).  
 
 My research focuses on **computer vision**, **language models** and **Embodied AI**. 
 
